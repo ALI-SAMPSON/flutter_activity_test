@@ -4,7 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+1. Clone the repo
+2. Run Flutter packages get
+3. Run the project (It is already connected to an open firebase project)
+
+## Prerequisites
+
+You need to have Flutter set up and ready. https://flutter.dev/
 
 A few resources to get you started if this is your first Flutter project:
 
