@@ -1,4 +1,4 @@
-# flutter_test_app
+# flutter_android_activity_test_app
 
 A new Flutter project.
 
