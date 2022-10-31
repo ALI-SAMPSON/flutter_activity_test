@@ -1,6 +1,6 @@
 # flutter_android_activity_test_app
 
-A new Flutter project.
+A new Flutter project to test native android activities with flutter using GETX state management library.
 
 ## Getting Started
 
